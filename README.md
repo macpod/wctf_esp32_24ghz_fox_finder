@@ -4,6 +4,7 @@ The OLED display shows:
 * The number of APs seen
 * A rectangle which will toggle on/off each time a scan has been refreshed
 * The RSSI of the designated BSSID and SSID at the top of the sketch. 
+* If either the BSSID or SSID that are programmed are seen, the LED on the board will turn on
 
 This was a last-minute Quick n' Dirty® project made so a few friends would have *something* to try to hone in on a fox if they didn't bring any equipment. **There are many improvements that could be made to this!** 
 
